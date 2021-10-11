@@ -15,6 +15,24 @@
       "uses":2
     }
   ],
+  "villans": [
+    {
+     "id" : 1
+      "name":"FaceBook"
+    },
+        {
+     "id" : 2
+      "name":"Management Man"
+    },
+        {
+     "id" : 3
+      "name":"Covid Cal"
+    },
+        {
+     "id" : 4
+      "name":"Networking Nancy"
+    }
+    ],
   "profile": {
     "name": "Becauseraisins"
   }
