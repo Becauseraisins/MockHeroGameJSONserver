@@ -17,20 +17,20 @@
   ],
   "villans": [
     {
-     "id" : 1
-      "name":"FaceBook"
+     "id" : 1,
+      "name" : "FaceBook"
     },
         {
-     "id" : 2
-      "name":"Management Man"
+     "id" : 2,
+      "name" : "Management Man"
     },
         {
-     "id" : 3
-      "name":"Covid Cal"
+     "id" : 3,
+      "name" : "Covid Cal"
     },
         {
-     "id" : 4
-      "name":"Networking Nancy"
+     "id" : 4,
+      "name" : "Networking Nancy"
     }
     ],
   "profile": {
